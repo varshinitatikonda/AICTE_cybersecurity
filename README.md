@@ -1,4 +1,4 @@
-# Image Steganography Tool
+# Image Steganography
 
 This project is a Python-based tool for encoding and decoding messages within images using steganography techniques. It utilizes the Least Significant Bit (LSB) method to hide messages in the RGB values of an image, providing a simple way to encrypt and conceal data.
 
