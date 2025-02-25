@@ -23,7 +23,7 @@ Run the script and follow the prompts.
 
 ### Encoding a Message
 ```bash
-python steganography.py
+python test.py
 ```
 Select `e` for encoding, then provide:
 - The path to the input image.
